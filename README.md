@@ -17,6 +17,9 @@ Here are some of my notable open-source projects:
 - **[laravel-starter-tpl](https://github.com/wayofdev/laravel-starter-tpl):** A Laravel backend application template for building APIs.
 - **[laravel-package-tpl](https://github.com/wayofdev/laravel-package-tpl):** Jump-start your Laravel package development with a pre-configured Composer template.
 - **[laravel-symfony-serializer](https://github.com/wayofdev/laravel-symfony-serializer):** An implementation of the Symfony serializer for Laravel projects, which can replace the default slow serialization in Laravel using PHP's serialize() function with a faster approach using Symfony.
+- **[laravel-webhook-client](https://github.com/wayofdev/laravel-webhook-client):** Receive webhooks in Laravel apps with support of Cycle-ORM.
+- **[laravel-stripe-webhooks](https://github.com/wayofdev/laravel-stripe-webhooks):** Handle Stripe webhooks in a Laravel application with support of Cycle-ORM.
+- **[laravel-open-docs](https://github.com/wayofdev/laravel-open-docs):** Wrapper package for Laravel of a PHP swagger annotation and parsing library. Brings support of Open-API annotations to Laravel Projects.
 
 #### → ORM and Databases
 
