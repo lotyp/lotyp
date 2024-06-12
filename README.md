@@ -49,7 +49,7 @@ Here are some of my notable open-source projects:
 
 ### 📄 Certifications
 
-- **Certified Laravel Developer**
+**Certified Laravel Developer**
   - **Issuing Authority:** Laravel LLC
   - **Credential Number:** 2021-02-18
 
