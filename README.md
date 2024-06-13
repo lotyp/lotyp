@@ -25,18 +25,16 @@ Here are some of my notable open-source projects:
 
 - **[active-record](https://github.com/cycle/active-record):** I'm co-author of `cycle/active-record` repository which provides a simple way to work with your database using Active Record pattern and Cycle ORM.
 
-#### → Docker
+#### → DevOps
 
+- **[gh-actions](https://github.com/wayofdev/gh-actions):** This repository is a collection of reusable workflows and composite actions, specifically designed for use in wayofdev projects.
 - **[docker-php-base](https://github.com/wayofdev/docker-php-base):** Fully automated, multi-architecture base PHP Docker images, with publishing to GHCR.io and Docker Hub. Generated using Ansible and Jinja.
 - **[docker-php-dev](https://github.com/wayofdev/docker-php-dev):** Fully automated, multi-architecture PHP Docker images, for local development environments. Contains configured Xdebug, Phive and other tools.
+- **[docker-node](https://github.com/wayofdev/docker-node):** NodeJS docker images with local development dependencies like Vercel's Turbo and PNPM.
 
 #### → Developer Experience (DX)
 
 - **[docker-shared-services](https://github.com/wayofdev/docker-shared-services):** 🐳 Docker-powered local development environment for macOS and Linux, featuring Traefik with SSL support via mkcert. Streamlines development by eliminating `/etc/hosts` edits, resolving port conflicts. Local domains supported via dnsmasq. Ideal for HTTP-based projects like Laravel or Symfony. Enhances workflow consistency and team productivity.
-
-#### → DevOps
-
-- **[gh-actions](https://github.com/wayofdev/gh-actions):** This repository is a collection of reusable workflows and composite actions, specifically designed for use in wayofdev projects.
 
 #### → Next.js and React
 
