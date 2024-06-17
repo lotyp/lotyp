@@ -13,7 +13,13 @@ I started my journey at 13, and since then, I've worked across various IT sector
 
 As the founder of the [wayof.dev](https://github.com/wayofdev) GitHub organization and a member of the [Buggregator](https://github.com/buggregator) and [Cycle](https://github.com/cycle) organizations, my passion lies in open-source development, automation, and experimenting with LLMs and AI.
 
-### 🚀 Projects
+### 📄 My Articles
+
+#### → Dev.to
+
+- (Simplifying Local Development with Docker, mkcert, DNSMasq and Traefik.)[https://dev.to/lotyp/simplifying-local-development-with-docker-mkcert-dnsmasq-and-traefik-3k57]
+
+### 🚀 My Projects
 
 Here are some of my notable open-source projects:
 
