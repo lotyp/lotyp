@@ -17,7 +17,7 @@ As the founder of the [wayof.dev](https://github.com/wayofdev) GitHub organizati
 
 #### → Dev.to
 
-- (Simplifying Local Development with Docker, mkcert, DNSMasq and Traefik.)[https://dev.to/lotyp/simplifying-local-development-with-docker-mkcert-dnsmasq-and-traefik-3k57]
+- [Simplifying Local Development with Docker, mkcert, DNSMasq and Traefik](https://dev.to/lotyp/simplifying-local-development-with-docker-mkcert-dnsmasq-and-traefik-3k57)
 
 ### 🚀 My Projects
 
