@@ -70,3 +70,9 @@ I'm open to hire, so if you like my work, feel free to contact me!
 ### 📫 How to reach me
 
 For professional inquiries, please contact me via my [LinkedIn](https://www.linkedin.com/in/wayofdev/).
+
+<br>
+
+<p align="center">
+  <img src="image.png" alt="city view background" width="100%" />
+</p>
