@@ -17,6 +17,7 @@ As the founder of the [wayof.dev](https://github.com/wayofdev) GitHub organizati
 
 #### → Dev.to
 
+- [Laravel Config Problem: Is It Time for a Revolution?](https://dev.to/lotyp/laravel-config-problem-is-it-time-for-a-revolution-159f)
 - [Simplifying Local Development with Docker, mkcert, DNSMasq and Traefik](https://dev.to/lotyp/simplifying-local-development-with-docker-mkcert-dnsmasq-and-traefik-3k57)
 
 ### 🚀 My Projects
